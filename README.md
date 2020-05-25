@@ -1,2 +1,2 @@
 # FigBed
-load pictures for files from personal github
+load pictures from personal github for files(md file).
